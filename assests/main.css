@@ -1,0 +1,47 @@
+table{
+    position: relative;
+    top: 100px;
+    margin: auto;
+    background-color: rgba(230, 240, 140, 0.651);
+    width: 50%;
+
+}
+
+
+p{
+    font-family: sans-serif;
+    font-weight: 700;
+
+}
+
+td{ 
+    font-family: sans-serif;
+    font-size: 25px;
+    width: 5%;
+    text-align: center;
+    padding: 2px;
+    margin: auto;
+}
+
+.shade:hover{
+    background-color: rgb(230, 95, 95);
+}
+
+#screen{
+    border: 1px solid rgb(224, 204, 23);
+    overflow-x: hidden;
+    font-size: 60px;
+    font-family: cursive;
+    height: 100px;
+    
+}
+
+.operator{
+    background-color: rgb(238, 136, 77);
+}
+
+#calci{
+
+    font-size: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
